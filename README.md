@@ -4,6 +4,9 @@ As someone who’s passionate about online education, I’ve explored a bunch of
 It’s got a lot going for it, so I wanted to share my take on what makes it tick—its features, perks, and a few spots where it could step up its game.
 Here’s my friendly rundown!
 
+![image](https://github.com/user-attachments/assets/ed9e7d84-dbd1-47a4-9c57-7f9571fba660)
+
+
 ## What’s Thinkific All About?
 
 Thinkific is this awesome all-in-one platform that lets anyone—whether you’re a solo educator or running a business—create, market, 
@@ -36,6 +39,8 @@ It’s got landing pages that practically sell themselves, email automation to k
 
 Thinkific’s got options for everyone:
 
+<img width="921" alt="image" src="https://github.com/user-attachments/assets/4db3144b-0e3b-47cd-aae0-f52265803b9d" />
+
 ### Free Plan: 
 
 $0—perfect to dip your toes in with one course and unlimited students.
@@ -67,15 +72,21 @@ There’s a plan for wherever you’re at, from just starting out to running a f
 ### What I Like:
 
 ✅ It’s so easy to use, even if you’re not tech-savvy.
+
 ✅ Covers everything from creation to marketing in one spot.
+
 ✅ No pesky transaction fees—you keep more of your earnings!
+
 ✅ Grows with you as your business takes off.
 
 ### What Could Be Better:
 
 ❌ Customization’s decent but can feel limited if you’re picky.
+
 ❌ Some fancy add-ons cost extra, which can add up.
+
 ❌ No mobile app yet—would love to manage things on the go.
+
 
 ## How It Stacks Up?
 
