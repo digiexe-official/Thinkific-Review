@@ -1,4 +1,4 @@
-# Thinkific-Review
+# Thinkific-Review- Why I Use It and What I Like The Most About Thinkific?
 
 As someone who’s passionate about online education, I’ve explored a bunch of platforms over the years, and Thinkific always catches my eye. 
 It’s got a lot going for it, so I wanted to share my take on what makes it tick—its features, perks, and a few spots where it could step up its game.
